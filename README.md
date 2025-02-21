@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 Pronouns: coffeecat
-[image](coffeecat.jpg)
+![image](coffeecat.jpg)
