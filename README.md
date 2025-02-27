@@ -1,13 +1,6 @@
 ## Hi there 👋
-<<<<<<< HEAD
 😄 Pronouns: coffeecat
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-=======
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -79,7 +72,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 27/02/2025 01:57:48 UTC
 <!--END_SECTION:waka-->
->>>>>>> 8a166cb1f470d5f53a16b6cfca213f3b48937d2f
+
 
 <!--
 **Coffee-Kitty/Coffee-Kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
