@@ -2,15 +2,11 @@
 😄 Pronouns: coffeecat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 592.5 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
+> 📦 592.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,45 +14,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-🌆 Daytime                60 commits          ██████████░░░░░░░░░░░░░░░   40.54 % 
-🌃 Evening                57 commits          ██████████░░░░░░░░░░░░░░░   38.51 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Thursday                 30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Sunday                   34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -70,7 +27,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2025 01:57:48 UTC
+ Last Updated on 27/02/2025 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 
