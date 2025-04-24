@@ -1,13 +1,39 @@
 ## Hi there 👋
 😄 Pronouns: coffeecat
 
+
+ <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Coffee-Kitty&theme=dark&hide_border=true" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Coffee-Kitty&theme=light&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coffee-Kitty&theme=dark&hide_border=true"
+    style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;" />
+ </picture>
+
+<table>
+  <tr>
+
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <!-- github-readme-stats   github统计 stars pr issue等内容-->
+        <img src="https://github-readme-stats.vercel.app/api?username=Coffee-Kitty&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Coffee-Kitty/Coffee-Kitty">
+        <!-- github-readme-stats   热门语言统计 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee-Kitty&layout=compact&theme=dark&size_weight=0&count_weight=1" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffee-kitty&layout=compact)](https://github.com/coffee-kitty/coffee-kitty)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
