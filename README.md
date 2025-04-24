@@ -6,6 +6,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffee-kitty&layout=compact)](https://github.com/coffee-kitty/coffee-kitty)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
